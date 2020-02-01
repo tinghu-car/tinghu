@@ -1,0 +1,70 @@
+html,body {
+	margin: 0;
+	padding: 0;
+}
+
+.pagebox {
+	position: relative;
+}
+
+.p_page .pre:hover {
+	background-color: #004789 !important;
+}
+
+.p_page .pre:active {
+	background-color: #004789 !important;
+}
+
+.p_page .pageNum.active {
+	background-color: #004789 !important;
+}
+
+.p_page .pageNum:hover {
+	background-color: #004789 !important;
+}
+
+.p_page .pageNum:active {
+	background-color: #004789 !important;
+}
+
+.p_page .next {
+	background-color: #004789 !important;
+}
+
+.p_page .next:hover {
+	background-color: #004789 !important;
+}
+
+.p_page .next:active {
+	background-color: #004789 !important;
+}
+
+#w_wbox-1576114457346 {
+	position: absolute;
+	top: 159px;
+	left: 0px;
+	overflow: hidden!important;
+	z-index: 11;
+	width: 1912px;
+	height: 651px;
+}
+
+#w_bbox-1576130816383 {
+	position: absolute;
+	top: 5114px;
+	left: 0px;
+	z-index: auto;
+	overflow: hidden!important;
+	width: 1912px;
+	height: 360px;
+}
+
+#w_bbox-1576132119989 {
+	position: absolute;
+	top: 1553px;
+	left: -356px;
+	overflow: hidden!important;
+	z-index: 87;
+	width: 1912px;
+	height: 360px;
+}
